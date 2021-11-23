@@ -11,14 +11,14 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Inferno Network
+serverName: InfernoMC
 serverDescription: A Minecraft server with so many gamemodes join now!
 serverIP: Play.infernomc.fun
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: discord.infernomc.fun
+discordInvite: https://discord.gg/5hY7tZfPhE
 discordServerID: 860126624497139772
 discordChannelID: 881960287572488284
 
